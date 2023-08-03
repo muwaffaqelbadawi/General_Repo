@@ -1,3 +1,5 @@
+// Just some random comment to test commit!
+
 const myArr = ["eat", "sleep", "code"];
 
 NameObj = {
